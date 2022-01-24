@@ -1,0 +1,13 @@
+{
+  "SharedAssets": "*.*",
+  "Title": "Funland",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "minigolf_funland",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "Sandbox"
+}
