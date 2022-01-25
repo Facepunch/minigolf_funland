@@ -4,18 +4,18 @@
 	{
 		sounds = 
 		[
-			"sounds/physics/surfaces/sofa/impact_b_01.vsnd",
-			"sounds/physics/surfaces/sofa/impact_b_02.vsnd",
-			"sounds/physics/surfaces/sofa/impact_b_03.vsnd",
-			"sounds/physics/surfaces/sofa/impact_b_04.vsnd",
-			"sounds/physics/surfaces/sofa/impact_b_05.vsnd",
-			"sounds/physics/surfaces/sofa/impact_b_06.vsnd",
+			"sounds/physics/footsteps/player/cardboard/land_01.vsnd",
+			"sounds/physics/footsteps/player/cardboard/land_02.vsnd",
+			"sounds/physics/footsteps/player/cardboard/land_02.vsnd",
+			"sounds/physics/footsteps/player/grass/land_01.vsnd",
+			"sounds/physics/footsteps/player/grass/land_02.vsnd",
+			"sounds/physics/footsteps/player/grass/land_03.vsnd",
 		]
 		ui = false
 		volume = 1.0
 		volumerandom = 0.0
 		pitch = 1.0
-		pitchrandom = 0.0
+		pitchrandom = 0.1
 		distancemax = 2000.0
 		selectionmode = "3"
 	}
