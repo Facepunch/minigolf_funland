@@ -2,7 +2,7 @@
   "SharedAssets": "*.*",
   "Title": "Funland",
   "Type": "map",
-  "Org": "local",
+  "Org": "facepunch",
   "Ident": "minigolf_funland",
   "Schema": 1,
   "HasAssets": true,
